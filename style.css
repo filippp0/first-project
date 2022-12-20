@@ -1,0 +1,6 @@
+.flex-container {
+    display: flex;
+    background-color: rgba(72, 72, 243, 0.966);
+    width: 1000px;
+    height: 1000px;
+}
