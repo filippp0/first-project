@@ -3,4 +3,12 @@
     background-color: rgba(72, 72, 243, 0.966);
     width: 1000px;
     height: 1000px;
+    justify-content: space-around;
+}
+
+.flex-container__item {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(180, 46, 46);
 }
